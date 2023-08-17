@@ -7,5 +7,7 @@ redirect_from:
   - /findings.html
 ---
 
-## My major findings
-This is one finding
+These are m
+## My major findings of my career as a researcher
+
+### 
