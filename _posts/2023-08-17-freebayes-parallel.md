@@ -1,5 +1,5 @@
 ---
-title: 'Parallel SNP call with freebayes'
+title: 'Parallel SNP calling with freebayes'
 date: 2023-08-17
 permalink: /posts/2023/08/freebayes-parallel/
 tags:
@@ -8,7 +8,7 @@ tags:
   - SNP
 ---
 
-# Parallel SNP calling with freebayes
+
 Freebayes is a good variant caller and an alternative to the more popular GATK. I have successsfuly used freebayes to call SNPs and INDELs on fungal genomes with good results. However, one of the main drawbacks of freebayes is that it takes a huge amount of time to call variants. This is because freebayes does not take advantage of parallel processing, as a single core is used, and there is no parameter for multithreading.
 
 I recently came across `freebayes-parallel`, which is a `bash` script that comes with freebayes and is designed to allow parallel processing. Here, I describe how to use `freebayes-parallel` within a Snakemake pipeline.
