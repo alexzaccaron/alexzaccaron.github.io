@@ -13,7 +13,8 @@ Freebayes is a good variant caller and an alternative to the more popular GATK. 
 
 I recently came across `freebayes-parallel`, which is a `bash` script that comes with freebayes and is designed to allow parallel processing. Here, I describe how to use `freebayes-parallel` within a Snakemake pipeline.
 
-## Using `freebayes-parallel`
+Using `freebayes-parallel`
+======
 
 Suppose you have all your indexed BAM files and the reference genome in the folder `data/`. BAM file names are in the format `data/<sample>.bam`, and the reference genome is `data/ref.fasta`, like so:
 
