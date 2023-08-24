@@ -11,17 +11,18 @@ These are m
 ## My major findings of my career as a researcher
 
 <table>
+  <tr>
+    <th>Species</th>
+    <th>Isolate</th>
+    <th>Type</th>
+    <th>Accession</th>
+  </tr>
   {% for row in site.data.resources %}
-    {% if forloop.first %}
     <tr>
-      {% for pair in row %}
-        <th>{{ pair[0] }}</th>
-      {% endfor %}
+      <td>{{ row.Species }}</td>
+      <td>{{ row.Isolate }}</td>
+      <td>{{ row.Type }}</td>
+      <td><a href="{{ row.URL }}">{{ row.Accession }}</a></td>
     </tr>
-    {% endif %}
-
-    {% tablerow pair in row %}
-      {{ pair[1] }}
-    {% endtablerow %}
   {% endfor %}
 </table>

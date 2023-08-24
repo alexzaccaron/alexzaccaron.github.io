@@ -1,6 +1,6 @@
-Species,Isolate,Type,Accession
-Erysiphe necator,EnFRAME01,Nuclear genome,GCA_024703715.1
-Erysiphe necator,C-strain,mitochondrial genome,MT880588.1
-Erysiphe pisi,Palampur-1,mitochondrial genome,NC_056147.1
-Blumeria graminis f. sp. tritici,96224,mitochondrial genome,MT880591.1
-Golovinomyces cichoracearum,UMSG1,mitochondrial genome,NC_056148.1
+Species,Isolate,Type,Accession,URL
+Erysiphe necator,EnFRAME01,Nuclear genome,GCA_024703715.1,https://www.ncbi.nlm.nih.gov/nuccore/NC_056147.1
+Erysiphe necator,C-strain,mitochondrial genome,MT880588.1,https://www.ncbi.nlm.nih.gov/nuccore/NC_056147.1
+Erysiphe pisi,Palampur-1,mitochondrial genome,NC_056147.1,https://www.ncbi.nlm.nih.gov/nuccore/NC_056147.1
+Blumeria graminis f. sp. tritici,96224,mitochondrial genome,MT880591.1,https://www.ncbi.nlm.nih.gov/nuccore/NC_056147.1
+Golovinomyces cichoracearum,UMSG1,mitochondrial genome,NC_056148.1,https://www.ncbi.nlm.nih.gov/nuccore/NC_056147.1
