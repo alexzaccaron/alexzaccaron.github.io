@@ -1,9 +1,9 @@
 Species,Isolate,Type,Genes,Accession,URL
 Erysiphe necator,EnFRAME01,Nuclear genome,7146,GCA_024703715.1,https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_024703715.1
 Fulvia fulva,Race 5,Nuclear genome,14690,GCA_020509005.2,https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_020509005.1
-Pseudocercospora fuligena,CBS 109729,13765,GCA_014298035.1,https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_014298035.1
-Stenocarpella maydis,A1-1,GCA_002270565.1,NA,https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_002270565.1
-Bipolaris cookei,LSLP18.3,GCA_002286855.1,NA,https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_002286855.1
+Pseudocercospora fuligena,CBS 109729,Nuclear genome,13765,GCA_014298035.1,https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_014298035.1
+Stenocarpella maydis,A1-1,GCA_002270565.1,Nuclear genome,NA,https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_002270565.1
+Bipolaris cookei,LSLP18.3,GCA_002286855.1,Nuclear genome,NA,https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_002286855.1
 Erysiphe necator,C-strain,mitochondrial genome,106,NC_056146.1,https://www.ncbi.nlm.nih.gov/nuccore/NC_056146.1
 Erysiphe pisi,Palampur-1,mitochondrial genome,111,NC_056147.1,https://www.ncbi.nlm.nih.gov/nuccore/NC_056147.1
 Blumeria graminis f. sp. tritici,96224,mitochondrial genome,19,MT880591.1,https://www.ncbi.nlm.nih.gov/nuccore/MT880591.1
