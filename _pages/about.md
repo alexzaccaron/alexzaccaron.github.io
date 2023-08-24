@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the Integrative Genetics & Genomics group at UC Davis. I am passionate about using bioinformatics and data analysis to guide and facilitate functional studies that lead to new biological insights.
+I am a PhD candidate in the Integrative Genetics & Genomics ([IGG](https://igg.ucdavis.edu)) group at UC Davis. I am passionate about using bioinformatics and data analysis to guide and facilitate functional studies that lead to new biological insights.
 
 ## My research
 My focus is on comparative genomics analyses of fungal plant pathogens. Using next generation sequencing data and genomics data, I am interested in finding mutations and changes in the genome architecture that can mediate adaptation of fungal pathogens, particularly in the context of virulence and fungicide resistance.
