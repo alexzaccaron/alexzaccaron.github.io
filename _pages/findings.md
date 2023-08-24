@@ -7,8 +7,8 @@ redirect_from:
   - /findings.html
 ---
 
-These are m
-## My major findings of my career as a researcher
+
+This is a list of genomes that I have assembled and analyzed:
 
 <table>
   <tr>
@@ -17,6 +17,7 @@ These are m
     <th>Type</th>
     <th>Genes</th>
     <th>Accession</th>
+    <th>Reference</th>
   </tr>
   {% for row in site.data.resources %}
     <tr>
@@ -25,6 +26,7 @@ These are m
       <td>{{ row.Type }}</td>
       <td>{{ row.Genes }}</td>
       <td><a href="{{ row.URL }}">{{ row.Accession }}</a></td>
+      <td><a href="{{ row.REF }}">{{ row.Reference }}</a></td>
     </tr>
   {% endfor %}
 </table>
