@@ -8,7 +8,10 @@ redirect_from:
 ---
 
 
-This is a list of genomes that I have assembled and analyzed:
+![Fig](../images/enec_chr_ink.png "Genomes")
+
+I have assembled and annotated many fungal genomes. The following table shows those that are publicly available at [NCBI](https://www.ncbi.nlm.nih.gov).
+
 
 <table>
   <tr>
