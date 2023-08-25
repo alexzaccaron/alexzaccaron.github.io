@@ -1,36 +1,23 @@
 ---
 permalink: /findings/
-title: "Findings"
+title: "Majot findings"
 author_profile: true
 redirect_from: 
   - /md/
   - /findings.html
 ---
 
-See more [here](finding_1.md)
-
-This is a list of genomes that I have assembled and analyzed:
-
-<table>
-  <tr>
-    <th>Species</th>
-    <th>Isolate</th>
-    <th>Type</th>
-    <th>Genes</th>
-    <th>Accession</th>
-    <th>Reference</th>
-  </tr>
-  {% for row in site.data.resources %}
-    <tr>
-      <td>{{ row.Species }}</td>
-      <td>{{ row.Isolate }}</td>
-      <td>{{ row.Type }}</td>
-      <td>{{ row.Genes }}</td>
-      <td><a href="{{ row.URL }}">{{ row.Accession }}</a></td>
-      <td><a href="{{ row.REF }}">{{ row.Reference }}</a></td>
-    </tr>
-  {% endfor %}
-</table>
 
 
-Scripts and code snippets I used to analyze these genomes are available as repositories in my [GitHub page](https://github.com/alexzaccaron).
+These are the main discoveries I made along my career as a researcher.
+
+
+- ###A new family of carboxylesterase genes from powdery mildew fungi.
+
+- ###[A non-reciprocal translocation in the genome of *Cladosporium fulvum* prevents effector-triggered immunity in tomato](finding_avr9.md).
+
+- ###Fungi that cause powdery mildew have atypical sterol pathway.
+
+
+- ###The largest mitochondrial genome from a fungal pathogen.
+
