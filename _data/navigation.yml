@@ -4,16 +4,13 @@ main:
     url: /publications/
 
   - title: "Resources"
-    url: /resources/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /resources/  
     
   - title: "Portfolio"
     url: /portfolio/
+
+  - title: "Major findings"
+    url: /findings/
         
   - title: "Blog Posts"
     url: /year-archive/
@@ -21,5 +18,3 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Major findings"
-    url: /findings/
