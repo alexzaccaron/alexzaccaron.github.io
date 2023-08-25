@@ -7,6 +7,7 @@ redirect_from:
   - /findings.html
 ---
 
+See more [here](finding_1.md)
 
 This is a list of genomes that I have assembled and analyzed:
 
