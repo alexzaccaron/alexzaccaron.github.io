@@ -14,7 +14,7 @@ However, an unanswered question question was:
 ## Major findings
 I found out that in the *C. fulvum* strain Race 2 4 9 11 lost *Avr9* due to a non-reciprocal translocation between chromosomes 2 and 7. In simple words, the region of the genome that contained *Avr9* was replaced by a different DNA sequence. This DNA sequence that replaced the *Avr9* locus is a duplication of a regions from a different chromosome. This one example of a chromosomal structural variation in the genome of a pathogen that prevents effector-triggered immunity.
 
-![text](images/nonredicprocal_translocation.png "Translocation")
+![text](../images/nonredicprocal_translocation.png "Translocation")
 
 
 ### How did this translocation happened?
@@ -22,6 +22,6 @@ I found out that in the *C. fulvum* strain Race 2 4 9 11 lost *Avr9* due to a no
 The mechanism that could have acted to induce this translocation is unknown. However, I believe that the proximity to the end of the chromosome (subtelomeric region) could have played a role, because these regions are known to frequently harbor mutations. More importantly, I found truncated copies of a tranposable element flanking the border of the translocation. This observation led me to speculate that these truncated copies, which are 95% identical, served as substrate for non-allelic homologous recombination between non-homologous chromosomes.
 
 
-![text](images/avr9_loci.png "avr9")
+![text](../images/avr9_loci.png "avr9")
 
 A manuscript describing this and other findings is currently in preparation.
