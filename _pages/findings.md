@@ -1,6 +1,6 @@
 ---
 permalink: /findings/
-title: "Majot findings"
+title: "Major findings"
 author_profile: true
 redirect_from: 
   - /md/
@@ -17,6 +17,6 @@ These are the main discoveries I made along my career as a researcher.
 
 ### 3. Fungi that cause powdery mildew have atypical sterol pathway
 
-
 ### 4. [The largest mitochondrial genome from a fungal pathogen](finding_mtGc.md)
 
+### 5. [A candidate gene cluster for the biosynthesis of diplodiatoxin](finding_steno.md)
