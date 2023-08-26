@@ -9,14 +9,14 @@ redirect_from:
 
 
 
-These are the main discoveries I made along my career as a researcher.
+These are the main discoveries I made so far in my career as a researcher.
 
 ### 1. A new family of carboxylesterase genes from powdery mildew fungi
 
 ### 2. [A non-reciprocal translocation in the genome of *Cladosporium fulvum* prevents effector-triggered immunity in tomato](finding_avr9.md)
 
-### 3. Fungi that cause powdery mildew have atypical sterol pathway
+### 3. Powdery mildew fungi have atypical sterol pathway
 
-### 4. [The largest mitochondrial genome from a fungal pathogen](finding_mtGc.md)
+### 4. [The largest mitochondrial genome of a fungal pathogen](finding_mtGc.md)
 
 ### 5. [A candidate gene cluster for the biosynthesis of diplodiatoxin](finding_steno.md)
