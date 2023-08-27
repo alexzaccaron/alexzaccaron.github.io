@@ -1,10 +1,10 @@
 Species,Isolate,Type,Genes,Accession,URL,Reference,REF
-Erysiphe necator,EnFRAME01,nuclear genome,7146,GCA_024703715.1,https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_024703715.1,ref,https://journals.asm.org/doi/full/10.1128/mbio.00645-23
-Fulvia fulva,Race 5,nuclear genome,14690,GCA_020509005.2,https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_020509005.1,ref,https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000819
-Pseudocercospora fuligena,CBS 109729,nuclear genome,13765,GCA_014298035.1,https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_014298035.1,ref,https://apsjournals.apsnet.org/doi/full/10.1094/MPMI-06-20-0139-A
-Stenocarpella maydis,A1-1,nuclear genome,NA,GCA_002270565.1,https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_002270565.1,ref,https://www.sciencedirect.com/science/article/pii/S1878614617301095
-Bipolaris cookei,LSLP18.3,nuclear genome,NA,GCA_002286855.1,https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_002286855.1,ref,https://www.nature.com/articles/s41598-017-17476-x
-Erysiphe necator,C-strain,mitochondrial genome,106,NC_056146.1,https://www.ncbi.nlm.nih.gov/nuccore/NC_056146.1,ref,https://www.nature.com/articles/s41598-021-93481-5
-Erysiphe pisi,Palampur-1,mitochondrial genome,111,NC_056147.1,https://www.ncbi.nlm.nih.gov/nuccore/NC_056147.1,ref,https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000720
-Blumeria graminis f. sp. tritici,96224,mitochondrial genome,19,MT880591.1,https://www.ncbi.nlm.nih.gov/nuccore/MT880591.1,ref,https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000720
-Golovinomyces cichoracearum,UMSG1,mitochondrial genome,58,NC_056148.1,https://www.ncbi.nlm.nih.gov/nuccore/NC_056148.1,ref,https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000720
+Erysiphe necator,EnFRAME01,nuclear genome,7146,GCA_024703715.1,https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_024703715.1,(Zaccaron et al. 2023),https://journals.asm.org/doi/full/10.1128/mbio.00645-23
+Fulvia fulva,Race 5,nuclear genome,14690,GCA_020509005.2,https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_020509005.1,(Zaccaron et al. 2022),https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000819
+Pseudocercospora fuligena,CBS 109729,nuclear genome,13765,GCA_014298035.1,https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_014298035.1,(Zaccaron et al. 2020),https://apsjournals.apsnet.org/doi/full/10.1094/MPMI-06-20-0139-A
+Stenocarpella maydis,A1-1,nuclear genome,NA,GCA_002270565.1,https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_002270565.1,(Zaccaron et al. 2017),https://www.sciencedirect.com/science/article/pii/S1878614617301095
+Bipolaris cookei,LSLP18.3,nuclear genome,NA,GCA_002286855.1,https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_002286855.1,(Zaccaron et al. 2017),https://www.nature.com/articles/s41598-017-17476-x
+Erysiphe necator,C-strain,mitochondrial genome,106,NC_056146.1,https://www.ncbi.nlm.nih.gov/nuccore/NC_056146.1,(Zaccaron et al. 2021),https://www.nature.com/articles/s41598-021-93481-5
+Erysiphe pisi,Palampur-1,mitochondrial genome,111,NC_056147.1,https://www.ncbi.nlm.nih.gov/nuccore/NC_056147.1,(Zaccaron et al. 2021),https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000720
+Blumeria graminis f. sp. tritici,96224,mitochondrial genome,19,MT880591.1,https://www.ncbi.nlm.nih.gov/nuccore/MT880591.1,(Zaccaron et al. 2021),https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000720
+Golovinomyces cichoracearum,UMSG1,mitochondrial genome,58,NC_056148.1,https://www.ncbi.nlm.nih.gov/nuccore/NC_056148.1,(Zaccaron et al. 2021),https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000720
