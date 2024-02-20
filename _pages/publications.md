@@ -9,6 +9,10 @@ redirect_from:
 ---
 
 
+### 2024
+--------------------------------
+**Zaccaron AZ**, Stergiopoulos I. [Analysis of five near-complete genome assemblies of the tomato pathogen Cladosporium fulvum uncovers additional accessory chromosomes and structural variations induced by transposable elements effecting the loss of avirulence genes](https://link.springer.com/article/10.1186/s12915-024-01818-z). *BMC biology*, 22(1), 25.
+
 ### 2023
 --------------------------------
 **Zaccaron AZ**, Neill T, Corcoran J, Mahaffee WF, Stergiopoulos I. [A chromosome-scale genome assembly of the grape powdery mildew pathogen *Erysiphe necator* reveals its genomic architecture and previously unknown features of its biology](https://journals.asm.org/doi/abs/10.1128/mbio.00645-23). *Mbio*, e00645-23.

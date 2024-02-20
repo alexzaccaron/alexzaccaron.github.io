@@ -1,6 +1,10 @@
 Species,Isolate,Type,Genes,Accession,URL,Reference,REF
-Erysiphe necator,EnFRAME01,nuclear genome,7146,GCA_024703715.1,https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_024703715.1,(Zaccaron et al. 2023),https://journals.asm.org/doi/full/10.1128/mbio.00645-23
+Fulvia fulva,Race 0WU,nuclear genome,14981,GCA_035196915.1,https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_035196915.1,(Zaccaron et al. 2024),https://link.springer.com/article/10.1186/s12915-024-01818-z
+Fulvia fulva,Race 4,nuclear genome,14895,GCA_035196885.1,https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_035196885.1,(Zaccaron et al. 2024),https://link.springer.com/article/10.1186/s12915-024-01818-z
+Fulvia fulva,Race 2.4.5.9.11 IPO,nuclear genome,14944,accession,https://www.ncbi.nlm.nih.gov/nuccore?term=946017%5BBioProject%5D,(Zaccaron et al. 2024),https://link.springer.com/article/10.1186/s12915-024-01818-z
+Fulvia fulva,Race 2.4.9.11,nuclear genome,14943,accession,https://www.ncbi.nlm.nih.gov/nuccore?term=946156%5BBioProject%5D,(Zaccaron et al. 2024),https://link.springer.com/article/10.1186/s12915-024-01818-z
 Fulvia fulva,Race 5,nuclear genome,14690,GCA_020509005.2,https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_020509005.1,(Zaccaron et al. 2022),https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000819
+Erysiphe necator,EnFRAME01,nuclear genome,7146,GCA_024703715.1,https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_024703715.1,(Zaccaron et al. 2023),https://journals.asm.org/doi/full/10.1128/mbio.00645-23
 Pseudocercospora fuligena,CBS 109729,nuclear genome,13765,GCA_014298035.1,https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_014298035.1,(Zaccaron et al. 2020),https://apsjournals.apsnet.org/doi/full/10.1094/MPMI-06-20-0139-A
 Stenocarpella maydis,A1-1,nuclear genome,NA,GCA_002270565.1,https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_002270565.1,(Zaccaron et al. 2017),https://www.sciencedirect.com/science/article/pii/S1878614617301095
 Bipolaris cookei,LSLP18.3,nuclear genome,NA,GCA_002286855.1,https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_002286855.1,(Zaccaron et al. 2017),https://www.nature.com/articles/s41598-017-17476-x
