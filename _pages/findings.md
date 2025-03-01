@@ -15,7 +15,7 @@ These are the main discoveries I made so far in my career as a researcher.
 
 ### 2. [A non-reciprocal translocation in the genome of *Cladosporium fulvum* prevents effector-triggered immunity in tomato](finding_avr9.md)
 
-### 3. Powdery mildew fungi have atypical sterol pathway
+### 3. [Powdery mildew fungi have atypical sterol pathway](finding_pm_sterol.md)
 
 ### 4. [The largest mitochondrial genome of a fungal pathogen](finding_mtGc.md)
 

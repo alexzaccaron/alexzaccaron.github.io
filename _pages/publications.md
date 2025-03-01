@@ -11,7 +11,11 @@ redirect_from:
 
 ### 2024
 --------------------------------
-**Zaccaron AZ**, Stergiopoulos I. [Analysis of five near-complete genome assemblies of the tomato pathogen Cladosporium fulvum uncovers additional accessory chromosomes and structural variations induced by transposable elements effecting the loss of avirulence genes](https://link.springer.com/article/10.1186/s12915-024-01818-z). *BMC biology*, 22(1), 25.
+**Zaccaron AZ**, Chen LH, Stergiopoulos I. [Transcriptome analysis of two isolates of the tomato pathogen *Cladosporium fulvum*, uncovers genome-wide patterns of alternative splicing during a host infection cycle](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012791). *PLoS Pathogens*, 20(12), e1012791.
+
+**Zaccaron AZ**, Stergiopoulos I. [The dynamics of fungal genome organization and its impact on host adaptation and antifungal resistance](https://www.sciencedirect.com/science/article/pii/S1673852724002844). *Journal of Genetics and Genomics*.
+
+**Zaccaron AZ**, Stergiopoulos I. [Analysis of five near-complete genome assemblies of the tomato pathogen *Cladosporium fulvum* uncovers additional accessory chromosomes and structural variations induced by transposable elements effecting the loss of avirulence genes](https://link.springer.com/article/10.1186/s12915-024-01818-z). *BMC biology*, 22(1), 25.
 
 ### 2023
 --------------------------------
