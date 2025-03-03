@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in the [Weisberg](https://weisberglab.com) and [LeBoldus](https://bpp.oregonstate.edu/users/jared-leboldus) labs at Oregon State University. My research focus on comparative genomics analyses of fungal plant pathogens. Using bioinformatics techniques, I am interested in exploring changes in genome organization and molecular mechanisms of adapation of fungal plant pathogens. I particular, I seek answers questions related to "how pathogens evolve to overcome host resistance?"
+I am a postdoctoral researcher in the [Weisberg](https://weisberglab.com) and [LeBoldus](https://bpp.oregonstate.edu/users/jared-leboldus) labs at Oregon State University. My research focus on comparative genomics analyses of fungal plant pathogens. Using bioinformatics techniques, I am interested in exploring changes in genome organization and molecular mechanisms of adapation of fungal plant pathogens. I particular, I seek answers to questions related to "how pathogens evolve to overcome host resistance?"
 
 
 ![text](images/fungal_karyotypes.png "title")
