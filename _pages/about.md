@@ -11,7 +11,7 @@ redirect_from:
 I am a postdoctoral researcher in the [Weisberg](https://weisberglab.com) and [LeBoldus](https://bpp.oregonstate.edu/users/jared-leboldus) in the Botany and Plant Pathology department at Oregon State University. My research focus on comparative genomics analyses of fungal plant pathogens. Using bioinformatics techniques, I am interested in exploring changes in genome organization and molecular mechanisms of adapation of fungal plant pathogens. I particular, I seek answers to questions related to "how pathogens evolve to overcome host resistance?"
 
 
-![text](images/karyotypes.png.png "karyotypes")
+![text](images/karyotypes.png "karyotypes")
 
 
 My academic journey is quite unique. I earned a BS in Computer Science from the State University of Mato Grosso do Sul, Brazil. Following this, I completed my MS in Computer Science at the Federal University of Mato Grosso do Sul, Brazil. During my master's, I delved into computational complexity and combinatorial optimization, focusing on a theoretical problem called [the maximum similarity partitioning problem](https://www.inderscienceonline.com/doi/abs/10.1504/IJICA.2016.078727). I demonstrated that this problem is NP-complete in the strong sense and proposed greedy heuristics to address it.
