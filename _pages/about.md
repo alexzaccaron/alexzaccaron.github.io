@@ -8,24 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in the [Weisberg](https://weisberglab.com) and [LeBoldus](https://bpp.oregonstate.edu/users/jared-leboldus) labs at Oregon State University. My research focus on comparative genomics analyses of fungal plant pathogens. Using bioinformatics techniques, I am interested in exploring changes in genome organization and molecular mechanisms of adapation of fungal plant pathogens. I particular, I seek answers to questions related to "how pathogens evolve to overcome host resistance?"
+I am a postdoctoral researcher in the [Weisberg](https://weisberglab.com) and [LeBoldus](https://bpp.oregonstate.edu/users/jared-leboldus) in the Botany and Plant Pathology department at Oregon State University. My research focus on comparative genomics analyses of fungal plant pathogens. Using bioinformatics techniques, I am interested in exploring changes in genome organization and molecular mechanisms of adapation of fungal plant pathogens. I particular, I seek answers to questions related to "how pathogens evolve to overcome host resistance?"
 
 
-![text](images/fungal_karyotypes.png "title")
+![text](images/karyotypes.png.png "karyotypes")
 
 
-![text](images/impact_of_TEs.png "title")
-
-
-My academic journey is quite unique. I earned a BS in Computer Science from the State University of Mato Grosso do Sul (UEMS), Brazil. Following this, I completed my MS in Computer Science at the Federal University of Mato Grosso do Sul (UFMS), Brazil. During my master's, I delved into computational complexity and combinatorial optimization, focusing on a theoretical problem called [the maximum similarity partitioning problem](https://www.inderscienceonline.com/doi/abs/10.1504/IJICA.2016.078727). I demonstrated that this problem is NP-complete in the strong sense and proposed greedy heuristics to address it.
+My academic journey is quite unique. I earned a BS in Computer Science from the State University of Mato Grosso do Sul, Brazil. Following this, I completed my MS in Computer Science at the Federal University of Mato Grosso do Sul, Brazil. During my master's, I delved into computational complexity and combinatorial optimization, focusing on a theoretical problem called [the maximum similarity partitioning problem](https://www.inderscienceonline.com/doi/abs/10.1504/IJICA.2016.078727). I demonstrated that this problem is NP-complete in the strong sense and proposed greedy heuristics to address it.
 
 For my PhD, I took a drastic turn. I earned my PhD in [Integrative Genetics and Genomics](https://igg.ucdavis.edu) at UC Davis, working in the [Stergiopoulos](https://caes.ucdavis.edu/people/ioannis-stergiopoulos) lab. My doctoral research centered on investigating the genome organization and structural variations that influence the evolution of fungal pathogens, specifically the tomato pathogen *Cladosporium fulvum* and the grape powdery mildew pathogen *Erysiphe necator*.
 
 
-![text](images/mesosynteny.png "title")
+![text](images/CFR5_DS.png "Ffulvia_comparison")
 
-
-![text](images/TE_distribution.png "title")
 
 
 ## My research
