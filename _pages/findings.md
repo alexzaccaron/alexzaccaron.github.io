@@ -9,11 +9,11 @@ redirect_from:
 
 
 
-These are the main discoveries I made so far in my career as a researcher.
+These are key findings and observations I have made so far in my career as a researcher.
 
-### 1. [A new family of carboxylesterase genes from powdery mildew fungi](finding_coesterase.md)
+### 1. [A non-reciprocal translocation prevents effector-triggered immunity](finding_avr9.md)
 
-### 2. [A non-reciprocal translocation in the genome of *Cladosporium fulvum* prevents effector-triggered immunity in tomato](finding_avr9.md)
+### 2. [A new family of fungal carboxylesterases unique to powdery mildew fungi](finding_coesterase.md)
 
 ### 3. [Powdery mildew fungi have atypical sterol pathway](finding_pm_sterol.md)
 

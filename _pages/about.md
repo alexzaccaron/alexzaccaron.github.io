@@ -8,10 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in the [Weisberg](https://weisberglab.com) and [LeBoldus](https://bpp.oregonstate.edu/users/jared-leboldus) in the Botany and Plant Pathology department at Oregon State University. My research focus on comparative genomics analyses of fungal plant pathogens. Using bioinformatics techniques, I am interested in exploring changes in genome organization and molecular mechanisms of adapation of fungal plant pathogens. I particular, I seek answers to questions related to "how pathogens evolve to overcome host resistance?"
+I am a postdoctoral researcher in the [Weisberg](https://weisberglab.com) and [LeBoldus](https://bpp.oregonstate.edu/users/jared-leboldus) labs in the Botany and Plant Pathology department at Oregon State University.
+
+My research focus on comparative genomics analyses of fungal plant pathogens. Using bioinformatics techniques, I am interested in exploring genome dynamics of fungal plant pathogens to uncover mechanisms of adapation and pahogenicity. In particular, I try to answer questions related to "how pathogens evolve to overcome host resistance?"
+
+In my current research, I use comparative genomics of to investigate how strains of the Eastern Filbert Blight pathogen *Anisogramma anomala* are capable to overcome 'Gasaway' resistance in hazelnut cultivars.
 
 
-![text](images/karyotypes.png "karyotypes")
+
+## My academic background
 
 
 My academic journey is quite unique. I earned a BS in Computer Science from the State University of Mato Grosso do Sul, Brazil. Following this, I completed my MS in Computer Science at the Federal University of Mato Grosso do Sul, Brazil. During my master's, I delved into computational complexity and combinatorial optimization, focusing on a theoretical problem called [the maximum similarity partitioning problem](https://www.inderscienceonline.com/doi/abs/10.1504/IJICA.2016.078727). I demonstrated that this problem is NP-complete in the strong sense and proposed greedy heuristics to address it.
@@ -20,12 +25,6 @@ For my PhD, I took a drastic turn. I earned my PhD in [Integrative Genetics and 
 
 
 ![text](images/CFR5_DS.png "Ffulvia_comparison")
-
-
-
-## My research
-
-In my current research, I continue to investigate how the genome of fungal plant pathogen evolve, allowing them to rapid adapt to adverse conditions. Notably, I use comparative genomics of to investigate how strains of the Eastern Filbert Blight pathogen *Anisogramma anomala* are capable to overcome resistance in hazelnut, particularly the 'Gasaway' resistance. I also investigate how chromosome structural variations affect the genome of another fungus, the poplar tree pathogen *Sphaerulina musiva*.
 
 
 
