@@ -15,5 +15,7 @@ Interestingly, the molecular structure of diplodiatoxin is similar to that of be
 
 
 
-### Want to learn more?
-Check out this article [Zaccaron et al. 2017](https://www.sciencedirect.com/science/article/abs/pii/S1878614617301095) and [this essay](https://alexzaccaron.github.io/files/PLP130_midterm_Alex.pdf).
+### References
+
+* Zaccaron, A. Z., Woloshuk, C. P., & Bluhm, B. H. (2017). [Comparative genomics of maize ear rot pathogens reveals expansion of carbohydrate-active enzymes and secondary metabolism backbone genes in *Stenocarpella maydis*](https://www.sciencedirect.com/science/article/abs/pii/S1878614617301095). Fungal Biology, 121(11), 966-983.
+* Zaccaron, A. Z. (2021). [*Stenocarpella maydis* and diplodiosis: The last major mycotoxicosis caused by an unknown mycotoxin](https://www.sciencedirect.com/science/article/abs/pii/S1878614617301095).

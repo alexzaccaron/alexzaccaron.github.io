@@ -16,5 +16,5 @@ By obtaining and comparing the mitochondrial genomes of four powdery mildew fung
 ![text](https://alexzaccaron.github.io/images/circos_PMs_v2.png "Gcicoracearum")
 
 
-
-More details and other findings are described in [Zaccaron and Stergiopoulos 2021](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000720).
+### References
+* Zaccaron, A. Z., & Stergiopoulos, I. (2021). [Characterization of the mitochondrial genomes of three powdery mildew pathogens reveals remarkable variation in size and nucleotide composition](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000720). Microbial genomics, 7(12), 000720.

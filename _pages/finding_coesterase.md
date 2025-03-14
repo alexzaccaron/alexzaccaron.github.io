@@ -19,5 +19,6 @@ After further investigation, I predicted that the gene HI914_00624 encodes a sec
 
 
 
-### Want to learn more?
-Check out this article [Zaccaron et al. 2023](https://journals.asm.org/doi/full/10.1128/mbio.00645-23)
+### References
+* Zaccaron, A. Z., Neill, T., Corcoran, J., Mahaffee, W. F., & Stergiopoulos, I. (2023). [A chromosome-scale genome assembly of the grape powdery mildew pathogen Erysiphe necator reveals its genomic architecture and previously unknown features of its biology](https://journals.asm.org/doi/full/10.1128/mbio.00645-23). Mbio, 14(4), e00645-23.
+

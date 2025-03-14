@@ -24,4 +24,7 @@ The mechanism that could have acted to induce this translocation is unknown. How
 
 ![text](https://alexzaccaron.github.io/images/avr9_loci.png "avr9")
 
-A manuscript describing this and other findings is currently in preparation.
+
+### References
+
+* Zaccaron, A. Z., & Stergiopoulos, I. (2024). [Analysis of five near-complete genome assemblies of the tomato pathogen Cladosporium fulvum uncovers additional accessory chromosomes and structural variations induced by transposable elements effecting the loss of avirulence genes](https://link.springer.com/article/10.1186/s12915-024-01818-z). BMC biology, 22(1), 25.
